@@ -1,0 +1,17 @@
+AddressBits: 6
+NumbersOfSet: 4
+Associative: 2
+BlockSize: 1
+Index bit count: 2
+Index bits: 3 2 
+Offset bit count: 0
+.end
+.end
+.end
+.end
+.end
+.end
+.end
+.end
+.end
+Total cache miss count: 0

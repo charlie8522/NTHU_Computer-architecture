@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1547182239 source:c:\users\charlie\desktop\archi_final\main.cpp
+	<fstream>
+	<sstream>
+	<iostream>
+	<math.h>
+	<string>
+	<stdlib.h>
+	<cstring>
+	"main.h"
+
+1547139658 c:\users\charlie\desktop\archi_final\main.h
+
